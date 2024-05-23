@@ -36,7 +36,7 @@ A comprehensive student attendance tracking system that features a responsive we
 
 1. **Backend**:
    - Clone the repository.
-   - Navigate to the `backend` directory.
+   - Navigate to the api directory.
    - Configure the database connection in `appsettings.json`.
    - Run database migrations using Entity Framework Core.
    - Start the backend server.
@@ -48,16 +48,7 @@ A comprehensive student attendance tracking system that features a responsive we
    - Start the development server using `npm start`.
 
 3. **Mobile Frontend**:
-   - Navigate to the `mobile-frontend` directory.
+   - Navigate to the phone app directory.
    - Open the solution in Visual Studio.
-   - Configure the API endpoint in the code.
    - Build and run on the desired device or emulator.
-
-## Contribution Guidelines
-
-Contributions are welcome! Please follow the guidelines outlined in the `CONTRIBUTING.md` file.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
